@@ -1,0 +1,5 @@
+interface:
+  display_name: "Screenshot Sprite Extractor"
+  short_description: "批次分析截圖、裁切圖示、透明去背、重新命名並驗證輸出結果"
+  default_prompt: "使用 $screenshot-sprite-extractor 分析截圖壓縮檔，確認裁切範圍與去背方式後，輸出尺寸一致的透明 PNG。"
+
